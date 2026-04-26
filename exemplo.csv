@@ -1,0 +1,3 @@
+nome, quantidade, preco, disponibilidade
+Rodrigo, 10, 15.50, True
+Lucas, 5, 20.00, False  
